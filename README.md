@@ -24,7 +24,7 @@
 <img align="center" alt="Mateus-JAVA" height="40" width="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
 <img align="center" alt="Mateus-ORACLE" height="40" width="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg">
 <img align="center" alt="Mateus-HTML" height="40" width="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg">  
-<img align="center" alt="Mateus-CSS" height="40" width="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/css3/css3-plain-wordmark.svg">  
+<img align="center" alt="Mateus-CSS" height="40" width="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg">  
 </div>
 <div>
   
