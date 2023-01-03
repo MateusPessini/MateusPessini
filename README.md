@@ -10,7 +10,7 @@
   <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pessinera&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
-  <img align="right" alt="Yoshaaa" width = 349  height = 240  src= "https://media.tenor.com/36lDIQ6tMx4AAAAd/hacker-ile0x.gif">
+  <img align="right" alt="Yoshaaa" width = 369  height = 240  src= "https://media.tenor.com/36lDIQ6tMx4AAAAd/hacker-ile0x.gif">
 <div>
     
   ##
