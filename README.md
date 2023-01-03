@@ -1,6 +1,6 @@
 ### Olá, sou Mateus Pessini Scherer
 - 📚 Cursando análise e desenvolvimento de sistemas - UNIPAR
-- 🎮 Desenvolvendo projetos para a Faculdade
+- 📚 Desenvolvendo projetos para a Faculdade
 - 🧡 Java
 
 
@@ -10,7 +10,7 @@
   <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pessinera&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
-  <img align="right" alt="Yoshaaa" width = 389  height = 240  src= "https://media.tenor.com/36lDIQ6tMx4AAAAd/hacker-ile0x.gif">
+  <img align="right" width = 389  height = 240  src= "https://media.tenor.com/36lDIQ6tMx4AAAAd/hacker-ile0x.gif">
 <div>
     
   ##
@@ -23,6 +23,8 @@
 <div style="display: inline_block"><br>
 <img align="center" alt="Mateus-JAVA" height="40" width="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
 <img align="center" alt="Mateus-MySQL" height="40" width="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg">
+<img align="center" alt="Mateus-MySQL" height="40" width="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg">  
+<img align="center" alt="Mateus-MySQL" height="40" width="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/css3/css3-plain-wordmark.svg">  
 </div>
 <div>
   
