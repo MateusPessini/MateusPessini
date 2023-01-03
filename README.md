@@ -9,11 +9,6 @@
   <img height="130em" src="https://github-readme-stats.vercel.app/apiusername=Pessinera&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pessinera&layout=compact&langs_count=7&theme=tokyonight"/>
 
-<div class="tenor-gif-embed" data-postid="20781852" data-share-method="host" data-aspect-ratio="1.77778" data-width="100%"><a href="https://tenor.com/view/hacker-ile0x-gif-20781852">Hacker Ile0x GIF</a>from <a href="https://tenor.com/search/hacker-gifs">Hacker GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
-    
-  ##
-  
-</div>
   
 <br>
 <br>
