@@ -1,6 +1,6 @@
 ### Olá, sou Mateus Pessini Scherer
 - 📚 Cursando análise e desenvolvimento de sistemas - UNIPAR
-- 📚 Desenvolvendo projetos para a Faculdade
+- 📚 Desenvolvendo projetos
 
 
 <div align="center">
